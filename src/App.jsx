@@ -117,7 +117,7 @@ function App() {
           <h2 id="teaserHeading">
             {birthdayReached
               ? "💖 Happiest Birthday Nanduuuu 💖"
-              : "✨ I can't wait to try to make this your best birthday ever ✨ \n 💖 This does not specify ki tum mere liye bilkul v matter krte ho 💖"}
+              : "✨ I can't wait to try to make this your best birthday ever ✨ \n      💖 This does not specify ki tum mere liye bilkul v matter krte ho 💖"}
           </h2>
           <p className="teaser-hint">This will open only on your birthday so, STAY TUNED BITCH!💫</p>
         </section>
