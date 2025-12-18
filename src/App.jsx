@@ -101,7 +101,7 @@ function App() {
             ) : (
               <>
                 Counting down to <span className="highlight">Nanduuuu's</span>{" "}
-                special day 🎂
+                Buddayyyy 🎂
               </>
             )}
           </h1>
