@@ -13,7 +13,7 @@ function MessageCard({ isActive }) {
   const curtainHintRef = useRef(null);
   const messageContentRef = useRef(null);
 
-  const message = `[Recipient Name],
+  const message = `For Darshika,
 
 Dear Nandu, 
 The first day that i saw you i knew that she's gonna be somebody to me, it never really felt ki you're a stranger ive never talked to before but still i had to observe you from a distance and icl it was exhilerating, you're lit one of your own kind and when you talked to me for the first time it was so fbhdjdjd, i had heard you speak a million words but now you were talking to me first never thought you would. so anyways that day you made a part of me very happy btw. not because i am some obsessive psycho but because you made me realise that you were the friend i always wanted and i ever needed. I may not have been that good of a friend lately and been a lil absent but if you ever needed me even at 3am, ill rush towards you to be there for you without even thinking twice, you mean that much to me. *you literally deserved the whole world* and i hope that i could make this world a little lighter for you whenever you needed. You're one of the most amazing person yeah but you're also kind of a bitch (not to me but to others,yeah) so anyways 
